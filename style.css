@@ -88,4 +88,9 @@
       grid-column: 1 / span 1;
     }
   } ;
+  footer p{
+    margin-top: 10px;
+  }
+
+   
   
